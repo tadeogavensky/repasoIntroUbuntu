@@ -1,0 +1,11 @@
+
+Grupo 14
+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
+
+Individual
+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
+
+Testing
+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
+
+git clone https://<token>@github.com/owner/repo.git
